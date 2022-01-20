@@ -57,7 +57,7 @@
     border-radius: 50%;
 }
 
-.search-box {
+/* .search-box {
     display: block;
     margin: 60px auto 20px;
     width: 100%;
@@ -69,9 +69,12 @@
     border: none;
     outline: none;
     text-transform: capitalize;
-}
+} */
 
 .search-btn {
+    font-size: large;
+    font-weight: 700;
+    margin-top: 30px;
     padding: 10px 30px;
     border-radius: 5px;
     text-transform: capitalize;
